@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdellah Mahmoudi CV</title>
+    <link rel="stylesheet" href="css/MDB_css_bootstrao.css">
+    <link rel="stylesheet" href="css/MDB_css_font_awesome_bootstrap.css">
+    <link rel="stylesheet" href="css/MDB_css_google_fonts_bootstrap.css">
+    <link rel="stylesheet" href="css/style_v4.5_bootstrap.css">
+    <link rel="stylesheet" href="css/style_v5.1_bootstrap.css">
+</head>
+<body>
+    
+
+    <script src="javascript/javascript_v4.5_bootstrap.js"></script>
+    <script src="javascript/javascript_v5.1_bootstrap.js"></script>
+    <script src="javascript/jquery_v4.5_bootstrap.js"></script>
+    <script src="javascript/MDB_javascript_v5_bootstrap.js"></script>
+</body>
+</html>
+
+
+
+
+
+https://abdellahcoder.github.io/ethcal/
